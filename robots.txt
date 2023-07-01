@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://masayakawamura.github.io/sitemap.xml
