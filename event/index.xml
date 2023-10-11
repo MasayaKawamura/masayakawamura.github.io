@@ -5,12 +5,21 @@
     <link>https://masayakawamura.github.io/event/</link>
       <atom:link href="https://masayakawamura.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jun 2022 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Jul 2023 18:00:00 +0000</lastBuildDate>
     <image>
       <url>https://masayakawamura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
       <link>https://masayakawamura.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>ICASSP2023音声・音響読み会</title>
+      <link>https://masayakawamura.github.io/talk/icassp2023%E9%9F%B3%E5%A3%B0%E9%9F%B3%E9%9F%BF%E8%AA%AD%E3%81%BF%E4%BC%9A/</link>
+      <pubDate>Fri, 07 Jul 2023 18:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/talk/icassp2023%E9%9F%B3%E5%A3%B0%E9%9F%B3%E9%9F%BF%E8%AA%AD%E3%81%BF%E4%BC%9A/</guid>
+      <description>&lt;p&gt;タイトル：Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ICASSP2022音声読み会</title>

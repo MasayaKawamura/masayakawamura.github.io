@@ -3,7 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://masayakawamura.github.io/publication-type/1/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/arxiv/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication_types/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/speech/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tags/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/tts/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/talk/icassp2023%E9%9F%B3%E5%A3%B0%E9%9F%B3%E9%9F%BF%E8%AA%AD%E3%81%BF%E4%BC%9A/</loc>
+    <lastmod>2023-07-07T18:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/event/</loc>
+    <lastmod>2023-07-07T18:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/tag/icassp/</loc>
@@ -11,26 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/publication/conference-paper/mb-istft-vits/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/publication_types/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/publication/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tag/speech/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tags/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tag/tts/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -63,10 +79,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/talk/icassp2022%E9%9F%B3%E5%A3%B0%E8%AA%AD%E3%81%BF%E4%BC%9A/</loc>
-    <lastmod>2022-06-10T18:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/event/</loc>
     <lastmod>2022-06-10T18:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

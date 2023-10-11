@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tts | Masaya Kawamura</title>
-    <link>https://masayakawamura.github.io/tag/tts/</link>
-      <atom:link href="https://masayakawamura.github.io/tag/tts/index.xml" rel="self" type="application/rss+xml" />
-    <description>tts</description>
+    <title>arXiv | Masaya Kawamura</title>
+    <link>https://masayakawamura.github.io/tag/arxiv/</link>
+      <atom:link href="https://masayakawamura.github.io/tag/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <description>arXiv</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://masayakawamura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>tts</title>
-      <link>https://masayakawamura.github.io/tag/tts/</link>
+      <title>arXiv</title>
+      <link>https://masayakawamura.github.io/tag/arxiv/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform</title>
-      <link>https://masayakawamura.github.io/publication/conference-paper/mb-istft-vits/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://masayakawamura.github.io/publication/conference-paper/mb-istft-vits/</guid>
       <description></description>
     </item>
     

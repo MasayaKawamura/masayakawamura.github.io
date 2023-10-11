@@ -13,6 +13,23 @@
     </image>
     
     <item>
+      <title>PromptTTS&#43;&#43;: Controlling Speaker Identity in Prompt-Based Text-to-Speech Using Natural Language Descriptions</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICASSP2023音声・音響読み会</title>
+      <link>https://masayakawamura.github.io/talk/icassp2023%E9%9F%B3%E5%A3%B0%E9%9F%B3%E9%9F%BF%E8%AA%AD%E3%81%BF%E4%BC%9A/</link>
+      <pubDate>Fri, 07 Jul 2023 18:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/talk/icassp2023%E9%9F%B3%E5%A3%B0%E9%9F%B3%E9%9F%BF%E8%AA%AD%E3%81%BF%E4%BC%9A/</guid>
+      <description>&lt;p&gt;タイトル：Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform</title>
       <link>https://masayakawamura.github.io/publication/conference-paper/mb-istft-vits/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
