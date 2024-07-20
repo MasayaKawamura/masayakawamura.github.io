@@ -3,7 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://masayakawamura.github.io/publication-type/1/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/dataset/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/interspeech/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication/conference-paper/libritts-p/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication_types/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/speech/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tags/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tag/tts/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/tag/arxiv/</loc>
@@ -11,26 +43,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/publication_types/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/publication/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tag/speech/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tags/</loc>
-    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tag/tts/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
