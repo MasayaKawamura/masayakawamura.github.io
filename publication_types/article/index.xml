@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Masaya Kawamura</title>
+    <link>https://masayakawamura.github.io/publication_types/article/</link>
+      <atom:link href="https://masayakawamura.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://masayakawamura.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>Article</title>
+      <link>https://masayakawamura.github.io/publication_types/article/</link>
+    </image>
+    
+    <item>
+      <title>Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/cl-nansy-tts/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/cl-nansy-tts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

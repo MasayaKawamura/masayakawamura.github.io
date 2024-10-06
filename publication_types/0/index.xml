@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Masaya Kawamura</title>
+    <link>https://masayakawamura.github.io/publication_types/0/</link>
+      <atom:link href="https://masayakawamura.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://masayakawamura.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>0</title>
+      <link>https://masayakawamura.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>混合Differentiable Digital Signal Processingモデルによる合成パラメータ抽出のためのラウドネスの時間変動に基づくロス関数の設計</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/ddspmm-fd-asj/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/ddspmm-fd-asj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>混合Differentiable DSPモデルによる混合楽器音からの合成パラメータ抽出の実験的評価</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/ddspmm-asj/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/ddspmm-asj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>楽譜情報を援用した音楽音響信号に対する混合Differentiable DSPモデルの合成パラメータ推定</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/ddspmm-sigmus/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/ddspmm-sigmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ニューラル対話モデルの自動評価に向けた対照応答対評価セットの試作</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/contrastiveresponse-nlp/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/contrastiveresponse-nlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

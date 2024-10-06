@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interspeech | Masaya Kawamura</title>
+    <link>https://masayakawamura.github.io/tags/interspeech/</link>
+      <atom:link href="https://masayakawamura.github.io/tags/interspeech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interspeech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://masayakawamura.github.io/media/icon_hu10226378635250344412.png</url>
+      <title>Interspeech</title>
+      <link>https://masayakawamura.github.io/tags/interspeech/</link>
+    </image>
+    
+    <item>
+      <title>LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts for Text-to-Speech and Style Captioning</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/libritts-p/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/libritts-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
