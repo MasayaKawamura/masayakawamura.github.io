@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://masayakawamura.github.io/publication_types/article/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tags/arxiv/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://masayakawamura.github.io/publication/conference-paper/cl-nansy-tts/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tags/icassp/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/publication_types/paper-conference/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/publication_types/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/publication/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/tags/speech/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/tags/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/tags/tts/</loc>
-    <lastmod>2024-09-26T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/tags/dataset/</loc>
@@ -46,12 +46,12 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://masayakawamura.github.io/publication_types/paper-conference/</loc>
-    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://masayakawamura.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://masayakawamura.github.io/tags/arxiv/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/publication/conference-paper/prompttts&#43;&#43;/</loc>
@@ -64,10 +64,6 @@
   </url><url>
     <loc>https://masayakawamura.github.io/event/</loc>
     <lastmod>2023-07-07T18:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://masayakawamura.github.io/tags/icassp/</loc>
-    <lastmod>2023-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://masayakawamura.github.io/publication/conference-paper/mb-istft-vits/</loc>
