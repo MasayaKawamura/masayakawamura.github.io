@@ -5,12 +5,28 @@
     <link>https://masayakawamura.github.io/tags/tts/</link>
       <atom:link href="https://masayakawamura.github.io/tags/tts/index.xml" rel="self" type="application/rss+xml" />
     <description>tts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://masayakawamura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>tts</title>
       <link>https://masayakawamura.github.io/tags/tts/</link>
     </image>
+    
+    <item>
+      <title>BitTTS: Highly Compact Text-to-Speech Using 1.58-bit Quantization and Weight Indexing</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/bittts/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/bittts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Fast and High-Fidelity Neural Vocoders for Low-Latency Streaming Synthesis in Resource-Constrained Environments</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/ms-wavehax/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/ms-wavehax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control</title>
