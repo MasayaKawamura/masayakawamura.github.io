@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal processing | Masaya Kawamura</title>
+    <link>https://masayakawamura.github.io/tags/signal-processing/</link>
+      <atom:link href="https://masayakawamura.github.io/tags/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>signal processing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://masayakawamura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>signal processing</title>
+      <link>https://masayakawamura.github.io/tags/signal-processing/</link>
+    </image>
+    
+    <item>
+      <title>BitTTS: 1.58-bit 量子化と重みインデキシングによる軽量なテキスト音声合成</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/bittts-asj/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/bittts-asj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLASH: 信号処理と自己教師あり学習を組み合わせた基本周波数推定法</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/slash-asj/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/slash-asj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
