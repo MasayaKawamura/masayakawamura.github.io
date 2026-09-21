@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>speech | Masaya Kawamura</title>
+    <title>Speech | Masaya Kawamura</title>
     <link>https://masayakawamura.github.io/tags/speech/</link>
       <atom:link href="https://masayakawamura.github.io/tags/speech/index.xml" rel="self" type="application/rss+xml" />
-    <description>speech</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <description>Speech</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://masayakawamura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>speech</title>
+      <title>Speech</title>
       <link>https://masayakawamura.github.io/tags/speech/</link>
     </image>
+    
+    <item>
+      <title>Investigating Human-Model Discrepancies in Speech Quality Assessment via Acoustic and Prosodic Perturbations</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/human-model-discrepancies/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/human-model-discrepancies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASQA: Pitch-Accent-Focused Speech Quality Assessment Model Trained on Synthetic Speech with Accent Errors</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/pasqa/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/pasqa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BitTTS: 1.58-bit 量子化と重みインデキシングによる軽量なテキスト音声合成</title>

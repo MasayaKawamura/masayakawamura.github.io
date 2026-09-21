@@ -5,12 +5,28 @@
     <link>https://masayakawamura.github.io/tags/interspeech/</link>
       <atom:link href="https://masayakawamura.github.io/tags/interspeech/index.xml" rel="self" type="application/rss+xml" />
     <description>Interspeech</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://masayakawamura.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Interspeech</title>
       <link>https://masayakawamura.github.io/tags/interspeech/</link>
     </image>
+    
+    <item>
+      <title>Investigating Human-Model Discrepancies in Speech Quality Assessment via Acoustic and Prosodic Perturbations</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/human-model-discrepancies/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/human-model-discrepancies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASQA: Pitch-Accent-Focused Speech Quality Assessment Model Trained on Synthetic Speech with Accent Errors</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/pasqa/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/pasqa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BitTTS: Highly Compact Text-to-Speech Using 1.58-bit Quantization and Weight Indexing</title>

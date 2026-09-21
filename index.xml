@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Investigating Human-Model Discrepancies in Speech Quality Assessment via Acoustic and Prosodic Perturbations</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/human-model-discrepancies/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/human-model-discrepancies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PASQA: Pitch-Accent-Focused Speech Quality Assessment Model Trained on Synthetic Speech with Accent Errors</title>
+      <link>https://masayakawamura.github.io/publication/conference-paper/pasqa/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://masayakawamura.github.io/publication/conference-paper/pasqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BitTTS: 1.58-bit 量子化と重みインデキシングによる軽量なテキスト音声合成</title>
       <link>https://masayakawamura.github.io/publication/conference-paper/bittts-asj/</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
@@ -181,7 +197,15 @@
       <link>https://masayakawamura.github.io/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://masayakawamura.github.io/admin/</guid>
-      <description></description>
+      <description>&lt;!-- ---
+# Generate Wowchemy CMS
+type: wowchemycms
+private: true
+outputs:
+  - wowchemycms_config
+  - HTML
+--- --&gt;
+</description>
     </item>
     
   </channel>
